@@ -1,2 +1,2 @@
 # arduscooter
-Arduino-Nano-powered Electric Scooter
+Arduino-Nano-powered Electric Scooter ESC master
